@@ -1,2 +1,2 @@
 # Generative-Art
-# Colorful squares using python
+### Colorful squares using python
